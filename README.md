@@ -5,7 +5,7 @@
 * install 'requests' module ```pip install requests```
 * clone this repo ```git clone https://github.com/nimonX/gemini/```
   
-* ,Now get gemini api code from here: https://aistudio.google.com/app/apikey 
+* Now get gemini api code from here: https://aistudio.google.com/app/apikey 
 its free. 
 
 
